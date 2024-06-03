@@ -18,6 +18,3 @@ else if(op==='+')
     //  console.log('Answer is ' + `${answer}`);
     console.log('Your answer is ' + (num1+num2))
 }
-else {
-    console.log('Invalid operator')
-}
